@@ -1,0 +1,6 @@
+Type: Jupyter Notebook Extension
+Compatibility: Jupyter 4.x, 5.x
+Name: nb_cell_dialog
+Main: index.js
+Description: Add buttons for output dialog
+Icon: nb_cell_dialog.png
