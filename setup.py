@@ -15,7 +15,7 @@ setuptools.setup(
         ]),
         # like `jupyter nbextension enable --sys-prefix`
         ("etc/jupyter/nbconfig/notebook.d", [
-            "jupyter-config/nbconfig/notebook.d/nb_cell_dialog.json"
+            "jupyter-config/notebook.d/nb_cell_dialog.json"
         ])
     ],
     zip_safe=False
