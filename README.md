@@ -13,6 +13,8 @@ Close the dialog and the cell is put back where it came from (most of the time: 
 
 Should install and enable the extension automatically in Binder.
 
+## Install
+
 Install locally as:
 
 `pip install git+https://github.com/innovationOUtside/nb_cell_dialog.git`
