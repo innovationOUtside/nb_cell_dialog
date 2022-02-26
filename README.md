@@ -32,3 +32,7 @@ jupyter nbextension enable output_dialog/index
 Or if you're working from the downloaded files:
 
 `jupyter nbextension enable output_dialog/static/index`
+
+# See Also
+
+- https://github.com/xiaohk/stickyland
