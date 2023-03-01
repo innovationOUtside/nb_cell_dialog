@@ -3,10 +3,9 @@ import setuptools
 setuptools.setup(
     name="nb_cell_dialog",
     packages=['nb_cell_dialog'],
-    version='0.0.1',
+    version='0.0.2',
     include_package_data=True,
     install_requires=[
-        'notebook'
     ],
     data_files=[
         # like `jupyter nbextension install --sys-prefix`
